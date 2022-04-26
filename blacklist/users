@@ -2,7 +2,6 @@ Blacklist =
 {
     2415886442, -- F
     1221762872,  -- T
-    3431723272, -- M
 }
 
 return Blacklist
