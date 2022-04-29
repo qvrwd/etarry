@@ -7,7 +7,7 @@
 **What is Etarry?** 
 ```
     > Etarry is a independent, free-to-use project that is constantly being improved. 
-    > Etarry is created, founded, and scripted by qvrwd#6666. 
+    > Etarry is created, founded, and scripted by world#1111. 
 ```
 **What executors does Etarry support?** 
 ```
@@ -19,7 +19,7 @@
 ```
 **How do I get Etarry support?** 
 ```
-    > You can DM qvrwd#6666 at any time.
+    > You can DM world#1111 at any time.
 ```
 **Will I get banned using Etarry?**
 ```
@@ -29,7 +29,7 @@
 ```
 **How do I suggest a game?**
 ```
-    > You can always DM qvrwd#6666 or send a direct message in the #suggestions channel to request support for a certain game.
+    > You can always DM world#1111 or send a direct message in the #suggestions channel to request support for a certain game.
     > When suggesting games, make sure to state whether or not the game has an effective or strong anti cheat.
     > Always include details on what it is that you'd like for the script.
 ```
